@@ -12,7 +12,6 @@ class ResultViewController: UIViewController {
     @IBOutlet var resultLabel: UILabel!
     @IBOutlet var resultDescriptionLabel: UILabel!
     
-    
     var answerChosen: [Answer]!
     var animalTypeResult: AnimalType!
 
